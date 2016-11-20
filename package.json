@@ -18,7 +18,7 @@
     "url": "https://github.com/raventools/hubot-statuspage/issues"
   },
   "dependencies": {
-    "coffee-script": "~1.6"
+    "coffee-script": "~1.11.1"
   },
   "devDependencies": {
     "mocha": "*",
